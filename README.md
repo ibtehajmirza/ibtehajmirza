@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%7C+Penetration+Testing;Web+Security+%7C+Network+Security;Breaking+Things+%7C+Securing+Them;Always+Learning%2C+Always+Building." alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibtehajmirza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ibtehajmirza&label=Profile%20Views&color=0e75b6&style=flat" alt="Following" />
   <img src="https://img.shields.io/github/followers/ibtehajmirza?label=Followers&style=flat&color=00F7FF" alt="GitHub Followers" />
 </p>
 
