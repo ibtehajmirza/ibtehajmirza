@@ -18,10 +18,10 @@ I enjoy understanding how systems work, finding weaknesses, and figuring out how
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   🔐 Cybersecurity        🕵️ Penetration Testing            │
-│   🌐 Web Security         🌐 Network Security               │
-│   🐍 Python               ⚙️ C / C++                        │
-│   🧪 CTFs & Labs          🛠️ Security Tools                 │
+│   🔐 Cybersecurity        🕵️ Penetration Testing           │
+│   🌐 Web Security         🌐 Network Security              │
+│   🐍 Python               ⚙️ C / C++                       │
+│   🧪 CTFs & Labs          🛠️ Security Tools                │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -202,7 +202,7 @@ My current goal is to move deeper into **offensive security**, strengthen my pra
 ## 🏆 Certifications & Learning
 
 * 🎓 **BS Cyber Security**
-* 🛡️ **Google Cybersecurity coursework**
+* 🛡️ **Google Cybersecurity Certified**
 * 🧪 **TryHackMe hands-on training**
 * 🔐 Cybersecurity labs & CTF experience
 * 🌐 Web application security practice
